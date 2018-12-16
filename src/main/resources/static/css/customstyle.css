@@ -1,0 +1,11 @@
+.glyphicon.glyphicon-user{
+    padding-left: 20px;
+}
+
+.background {
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+
+.card{
+    padding-top: 10px;
+}
